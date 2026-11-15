@@ -1,3 +1,4 @@
+
 # PRAKTIKUM 7
 # PEMROGRAMAN SERVER-SIDE DENGAN PHP
 
@@ -361,7 +362,7 @@ Hasil yang diharapkan:
 
 ---
 
-## ## J. DOKUMENTASI SCREENSHOT HASIL PRAKTIKUM
+## J. DOKUMENTASI SCREENSHOT HASIL PRAKTIKUM
 
 Dokumentasi berikut merupakan hasil pengerjaan Praktikum 7 mengenai Pemrograman Server-Side dengan PHP. Setiap screenshot menunjukkan hasil program yang telah dijalankan melalui server lokal XAMPP menggunakan browser.
 
